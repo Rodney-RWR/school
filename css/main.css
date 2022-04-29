@@ -1,7 +1,8 @@
 body {
-  background: blue;
+  background: #89cff0;
 }
 
 .title {
   font-family: 'Bukhari Script', sans-serif;
+  color: #ff4040;
 }
