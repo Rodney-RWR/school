@@ -18,6 +18,7 @@ body {
 .menu {
   display: inline-block;
   position: relative;
+  text-align: center;
 }
 
 .menubutton {
