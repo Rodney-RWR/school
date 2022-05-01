@@ -44,13 +44,13 @@ body {
 }
 .menu-content a {
   display: block;
-  color: #000000;
+  color: #ff8c59;
   padding: 5px;
   text-decoration: none;
 }
 .menu-content a:hover {
   color: #FFFFFF;
-  background-color: #00A4BD;
+  background-color: #ff8c69;
 }
 
 .menubutton:hover {
