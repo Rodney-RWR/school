@@ -7,3 +7,11 @@ body {
   color: #ff4756;
   text-align: center;
 }
+
+@font-face {
+    font-family: 'Bukhari Script';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Bukhari Script'), url('https://fonts.cdnfonts.com/s/57472/BukhariScript-Regular.woff') format('woff');
+}
+
