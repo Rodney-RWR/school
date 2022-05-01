@@ -25,6 +25,7 @@ body {
   background-color: #ff8c69; /* Salmon */
   border: none;
   color: white;
+  font-family: 'Bukhari Script', sans-serif;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -34,6 +35,7 @@ body {
 
 
 .menu-content {
+  font-family: 'Bukhari Script', sans-serif;
   display: none;
   position: absolute;
   width: 100%;
@@ -45,6 +47,7 @@ body {
   display: block;
 }
 .menu-content a {
+  font-family: 'Bukhari Script', sans-serif;
   display: block;
   color: #000000;
   padding: 5px;
@@ -52,12 +55,14 @@ body {
 }
 .menu-content a:hover {
   color: #FFFFFF;
+  font-family: 'Bukhari Script', sans-serif;
   background-color: #ff8c69;
 }
 
 .menubutton:hover {
   background-color: #ff8c59; /* Light Orange */
   border: none;
+  font-family: 'Bukhari Script', sans-serif;
   color: white;
   padding: 15px 32px;
   text-align: center;
