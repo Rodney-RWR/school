@@ -15,7 +15,7 @@ body {
     src: local('Bukhari Script'), url('https://fonts.cdnfonts.com/s/57472/BukhariScript-Regular.woff') format('woff');
 }
 
-.menu {
+.menubutton {
   background-color: #ff8c69; /* Salmon */
   border: none;
   color: white;
@@ -48,18 +48,7 @@ body {
   background-color: #00A4BD;
 }
 
-.button {
-  background-color: #ff8c69; /* Salmon */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
-.menu:hover {
+.menubutton:hover {
   background-color: #ff8c59; /* Light Orange */
   border: none;
   color: white;
